@@ -21,9 +21,9 @@
     <string name="ok">OK</string>
     <string name="fingerprint_description">Confirma con la huella dactilar para continuar</string>
     <string name="fingerprint_hint">Sensor de huella</string>
-    <string name="fingerprint_not_recognized">No se reconoce la huella digital. Inténtalo de nuevo.</string>
-    <string name="fingerprint_success">Se ha reconocido la huella dactilar</string>
+    <string name="fingerprint_not_recognized">No se ha reconocido la huella digital. Inténtalo de nuevo.</string>
+    <string name="fingerprint_success">Huella reconocida</string>
     <string name="new_fingerprint_enrolled_description">Se ha agregado una nueva huella dactilar a este dispositivo, por lo que se requiere la contraseña.</string>
     <string name="secure_lock_screen_required">¡Pantalla de bloqueo seguro!</string>
-    <string name="fingerprint_too_many_attempts">Demasiados intentos. Inténtelo de nuevo más tarde.</string>
+    <string name="fingerprint_too_many_attempts">Demasiados intentos. Inténtalo de nuevo más tarde.</string>
 </resources>
